@@ -9,7 +9,7 @@
 print("press 1 for MENU")
 user= int(input())
 c=aa
-li=[]
+
 print("WELCOME TO OUR RETAURANT")
 print("THANKS FOR CHOOSING US")
 while(user<=4):
